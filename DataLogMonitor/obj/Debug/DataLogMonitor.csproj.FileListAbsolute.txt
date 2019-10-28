@@ -1,0 +1,17 @@
+C:\Users\Bilal Mehrban\Documents\DataLogMonitor\DataLogMonitor\bin\Debug\DataLogMonitor.exe.config
+C:\Users\Bilal Mehrban\Documents\DataLogMonitor\DataLogMonitor\bin\Debug\DataLogMonitor.exe
+C:\Users\Bilal Mehrban\Documents\DataLogMonitor\DataLogMonitor\bin\Debug\DataLogMonitor.pdb
+C:\Users\Bilal Mehrban\Documents\DataLogMonitor\DataLogMonitor\bin\Debug\MetroFramework.Design.dll
+C:\Users\Bilal Mehrban\Documents\DataLogMonitor\DataLogMonitor\bin\Debug\MetroFramework.dll
+C:\Users\Bilal Mehrban\Documents\DataLogMonitor\DataLogMonitor\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Bilal Mehrban\Documents\DataLogMonitor\DataLogMonitor\obj\Debug\DataLogMonitor.DataLogMonitor.resources
+C:\Users\Bilal Mehrban\Documents\DataLogMonitor\DataLogMonitor\obj\Debug\DataLogMonitor.Properties.Resources.resources
+C:\Users\Bilal Mehrban\Documents\DataLogMonitor\DataLogMonitor\obj\Debug\DataLogMonitor.csproj.GenerateResource.cache
+C:\Users\Bilal Mehrban\Documents\DataLogMonitor\DataLogMonitor\obj\Debug\DataLogMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Mehrban\Documents\DataLogMonitor\DataLogMonitor\obj\Debug\DataLogMonitor.csproj.CopyComplete
+C:\Users\Bilal Mehrban\Documents\DataLogMonitor\DataLogMonitor\obj\Debug\DataLogMonitor.exe
+C:\Users\Bilal Mehrban\Documents\DataLogMonitor\DataLogMonitor\obj\Debug\DataLogMonitor.pdb
+C:\Users\Bilal Mehrban\Documents\DataLogMonitor\DataLogMonitor\obj\Debug\DataLogMonitor.UI.Login.resources
+C:\Users\Bilal Mehrban\Documents\DataLogMonitor\DataLogMonitor\obj\Debug\DataLogMonitor.csprojAssemblyReference.cache
+C:\Users\Bilal Mehrban\Documents\DataLogMonitor\DataLogMonitor\obj\Debug\DataLogMonitor.UI.Logs.resources
+C:\Users\Bilal Mehrban\Documents\DataLogMonitor\DataLogMonitor\obj\Debug\DataLogMonitor.UI.Users.resources
