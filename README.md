@@ -1,6 +1,6 @@
 # Data Log Monitor
 
-A simple yet elegant desktop c# application based on 3 Tier architecture, designed to have a loot at the logs stored in the database using Nlog or other logging framework's.
+A simple yet elegant desktop c# application based on 3 Tier architecture, designed to have a look at the logs stored in the database using Nlog or other logging framework's.
 
 ## Getting Started
 
